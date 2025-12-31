@@ -1,4 +1,4 @@
-# Agent Use Case: Music Store Insights with Chinook.db
+# Agent Use Case: Music Store Insights
 
 ## Product Value / Scenario
 We are building an intelligent agent to help a music store make better business decisions and serve customers more efficiently. 
